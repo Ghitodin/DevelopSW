@@ -1,5 +1,5 @@
 fun vivaMechMat() {
-  println("Viva Mech-mat faculty")
+  println("Viva Mech-mat faculty!!!")
 }
 
 fun main(args : Array<String>) {
