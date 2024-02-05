@@ -3,7 +3,7 @@ fun vivaMechMat() {
 }
 
 fun main(args : Array<String>) {
-  repeat(10) {
+  repeat(11) {
     println("Hello")
   }
   vivaMechMat()
